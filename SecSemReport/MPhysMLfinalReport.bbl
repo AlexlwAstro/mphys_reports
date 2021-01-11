@@ -1,0 +1,148 @@
+\begin{thebibliography}{10}
+
+\bibitem{scholz2016repeating}
+P.~Scholz, L.~Spitler, J.~Hessels, S.~Chatterjee, J.~Cordes, V.~Kaspi,
+  R.~Wharton, C.~Bassa, S.~Bogdanov, F.~Camilo, {\em et~al.}, ``The repeating
+  fast radio burst frb 121102: Multi-wavelength observations and additional
+  bursts,'' {\em arXiv preprint arXiv:1603.08880}, 2016.
+
+\bibitem{petroff2015identifying}
+E.~Petroff, E.~Keane, E.~Barr, J.~Reynolds, J.~Sarkissian, P.~Edwards,
+  J.~Stevens, C.~Brem, A.~Jameson, S.~Burke-Spolaor, {\em et~al.},
+  ``Identifying the source of perytons at the parkes radio telescope,'' {\em
+  Monthly Notices of the Royal Astronomical Society}, vol.~451, no.~4,
+  pp.~3933--3940, 2015.
+
+\bibitem{keith2010high}
+M.~Keith, A.~Jameson, W.~Van~Straten, M.~Bailes, S.~Johnston, M.~Kramer,
+  A.~Possenti, S.~Bates, N.~Bhat, M.~Burgay, {\em et~al.}, ``The high time
+  resolution universe pulsar survey--i. system configuration and initial
+  discoveries,'' {\em Monthly Notices of the Royal Astronomical Society},
+  vol.~409, no.~2, pp.~619--627, 2010.
+
+\bibitem{ng2012conducting}
+C.~Ng, ``Conducting the deepest all-sky pulsar survey ever: the all-sky high
+  time resolution universe survey,'' {\em Proceedings of the International
+  Astronomical Union}, vol.~8, no.~S291, pp.~53--56, 2012.
+
+\bibitem{pilia2016wide}
+M.~Pilia, J.~Hessels, B.~Stappers, V.~Kondratiev, M.~Kramer, J.~Van~Leeuwen,
+  P.~Weltevrede, A.~Lyne, K.~Zagkouris, T.~Hassall, {\em et~al.}, ``Wide-band,
+  low-frequency pulse profiles of 100 radio pulsars with lofar,'' {\em
+  Astronomy \& Astrophysics}, vol.~586, p.~A92, 2016.
+
+\bibitem{zhu2014searching}
+W.~Zhu, A.~Berndsen, E.~Madsen, M.~Tan, I.~Stairs, A.~Brazier, P.~Lazarus,
+  R.~Lynch, P.~Scholz, K.~Stovall, {\em et~al.}, ``Searching for pulsars using
+  image pattern recognition,'' {\em The Astrophysical Journal}, vol.~781,
+  no.~2, p.~117, 2014.
+
+\bibitem{tipping1999mixtures}
+M.~E. Tipping and C.~M. Bishop, ``Mixtures of probabilistic principal component
+  analyzers,'' {\em Neural computation}, vol.~11, no.~2, pp.~443--482, 1999.
+
+\bibitem{bhattacharyya2016gmrt}
+B.~Bhattacharyya, S.~Cooper, M.~Malenta, J.~Roy, J.~Chengalur, M.~Keith,
+  S.~Kudale, M.~McLaughlin, S.~M. Ransom, P.~S. Ray, {\em et~al.}, ``The gmrt
+  high resolution southern sky survey for pulsars and transients. i. survey
+  description and initial discoveries,'' {\em The Astrophysical Journal},
+  vol.~817, no.~2, p.~130, 2016.
+
+\bibitem{ahuja2005tracking}
+A.~Ahuja, Y.~Gupta, D.~Mitra, and A.~Kembhavi, ``Tracking pulsar dispersion
+  measures using the giant metrewave radio telescope,'' {\em Monthly Notices of
+  the Royal Astronomical Society}, vol.~357, no.~3, pp.~1013--1021, 2005.
+
+\bibitem{lorimer2007bright}
+D.~Lorimer, M.~Bailes, M.~McLaughlin, D.~Narkevic, and F.~Crawford, ``A bright
+  millisecond radio burst of extragalactic origin,'' {\em Science}, vol.~318,
+  no.~5851, pp.~777--780, 2007.
+
+\bibitem{lyon2016fifty}
+R.~Lyon, B.~Stappers, S.~Cooper, J.~Brooke, and J.~Knowles, ``Fifty years of
+  pulsar candidate selection: From simple filters to a new principled real-time
+  classification approach,'' {\em Monthly Notices of the Royal Astronomical
+  Society}, vol.~459, no.~1, pp.~1104--1123, 2016.
+
+\bibitem{morello2014spinn}
+V.~Morello, E.~Barr, M.~Bailes, C.~Flynn, E.~Keane, and W.~van Straten,
+  ``Spinn: a straightforward machine learning solution to the pulsar candidate
+  selection problem,'' {\em Monthly Notices of the Royal Astronomical Society},
+  vol.~443, no.~2, pp.~1651--1662, 2014.
+
+\bibitem{lorimer2008binary}
+D.~R. Lorimer, ``Binary and millisecond pulsars,'' {\em Living Reviews in
+  Relativity}, vol.~11, no.~8, p.~21, 2008.
+
+\bibitem{hall2009weka}
+M.~Hall, E.~Frank, G.~Holmes, B.~Pfahringer, P.~Reutemann, and I.~H. Witten,
+  ``The weka data mining software: an update,'' {\em ACM SIGKDD explorations
+  newsletter}, vol.~11, no.~1, pp.~10--18, 2009.
+
+\bibitem{thornton2013high}
+D.~Thornton, ``The high time resolution radio sky,'' 2013.
+
+\bibitem{van2011dspsr}
+W.~van Straten and M.~Bailes, ``Dspsr: digital signal processing software for
+  pulsar astronomy,'' {\em Publications of the Astronomical Society of
+  Australia}, vol.~28, no.~01, pp.~1--14, 2011.
+
+\bibitem{hobbs2006tempo2}
+G.~Hobbs, R.~Edwards, and R.~Manchester, ``Tempo2, a new pulsar-timing
+  package--i. an overview,'' {\em Monthly Notices of the Royal Astronomical
+  Society}, vol.~369, no.~2, pp.~655--672, 2006.
+
+\bibitem{nogueira2016measuring}
+S.~Nogueira and G.~Brown, ``Measuring the stability of feature selection,'' in
+  {\em Joint European Conference on Machine Learning and Knowledge Discovery in
+  Databases}, pp.~442--457, Springer, 2016.
+
+\bibitem{kohavi1995study}
+R.~Kohavi {\em et~al.}, ``A study of cross-validation and bootstrap for
+  accuracy estimation and model selection,'' in {\em Ijcai}, vol.~14,
+  pp.~1137--1145, 1995.
+
+\bibitem{bennasar2015feature}
+M.~Bennasar, Y.~Hicks, and R.~Setchi, ``Feature selection using joint mutual
+  information maximisation,'' {\em Expert Systems with Applications}, vol.~42,
+  no.~22, pp.~8520--8532, 2015.
+
+\bibitem{kubat1998machine}
+M.~Kubat, R.~C. Holte, and S.~Matwin, ``Machine learning for the detection of
+  oil spills in satellite radar images,'' {\em Machine learning}, vol.~30,
+  no.~2-3, pp.~195--215, 1998.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay, ``Scikit-learn:
+  Machine learning in {P}ython,'' {\em Journal of Machine Learning Research},
+  vol.~12, pp.~2825--2830, 2011.
+
+\bibitem{friedman2001elements}
+J.~Friedman, T.~Hastie, and R.~Tibshirani, {\em The elements of statistical
+  learning}, vol.~1.
+\newblock Springer series in statistics Springer, Berlin, 2001.
+
+\bibitem{lisboa1993techniques}
+P.~J. Lisboa and M.~J. Taylor, {\em Techniques and applications of neural
+  networks}.
+\newblock Viking Penguin, 1993.
+
+\bibitem{john1995estimating}
+G.~H. John and P.~Langley, ``Estimating continuous distributions in bayesian
+  classifiers,'' in {\em Proceedings of the Eleventh conference on Uncertainty
+  in artificial intelligence}, pp.~338--345, Morgan Kaufmann Publishers Inc.,
+  1995.
+
+\bibitem{manevitz2001one}
+L.~M. Manevitz and M.~Yousef, ``One-class svms for document classification,''
+  {\em Journal of Machine Learning Research}, vol.~2, no.~Dec, pp.~139--154,
+  2001.
+
+\bibitem{liu2008isolation}
+F.~T. Liu, K.~M. Ting, and Z.-H. Zhou, ``Isolation forest,'' in {\em Data
+  Mining, 2008. ICDM'08. Eighth IEEE International Conference on},
+  pp.~413--422, IEEE, 2008.
+
+\end{thebibliography}

@@ -1,0 +1,160 @@
+\relax 
+\citation{lorimer2008binary}
+\citation{lorimer2008binary}
+\citation{lorimer2008binary}
+\citation{keith2010high}
+\citation{ng2012conducting}
+\citation{thornton2013high}
+\citation{morello2014spinn}
+\citation{thornton2013high}
+\citation{petroff2015identifying}
+\citation{smits2009pulsar}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Pulsars and millisecond pulsars}{1}}
+\@writefile{toc}{\contentsline {paragraph}{}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}The High Time Resolution Universe (HTRU) Survey}{1}}
+\@writefile{toc}{\contentsline {paragraph}{}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Motivation}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces psrsoft image output for a simulated pulsar data file\relax }}{2}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{psrsoftsim}{{1}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces psrsoft image output for a non-pulsar (noise) data file\relax }}{3}}
+\newlabel{psrsoftnoise}{{2}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Machine learning}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Theory}{3}}
+\citation{kohavi1995study}
+\citation{bennasar2015feature}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Underfitting (left) and overfitting (right) of a classification model (solid black line) for the same dataset. Source: https://tomrobertshaw.net/2015/12/introduction-to-machine-learning-with-naive-bayes/\relax }}{4}}
+\newlabel{fitting}{{3}{4}}
+\citation{bennasar2015feature}
+\citation{lyon2016fifty}
+\citation{lyon2016fifty}
+\citation{bennasar2015feature}
+\citation{kubat1998machine}
+\citation{lyon2016fifty}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Information theory}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Classification measurements}{5}}
+\citation{kubat1998machine}
+\citation{scikit-learn}
+\newlabel{recall}{{7}{6}}
+\newlabel{prec}{{8}{6}}
+\newlabel{spec}{{9}{6}}
+\newlabel{FPR}{{10}{6}}
+\newlabel{gmean}{{11}{6}}
+\newlabel{fscore}{{12}{6}}
+\newlabel{accu}{{13}{6}}
+\citation{friedman2001elements}
+\citation{lisboa1993techniques}
+\citation{john1995estimating}
+\citation{friedman2001elements}
+\citation{friedman2001elements}
+\citation{friedman2001elements}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Classifier algorithms}{7}}
+\citation{friedman2001elements}
+\citation{friedman2001elements}
+\citation{lyon2016fifty}
+\citation{pilia2016wide}
+\citation{zhu2014searching}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces SVM margin band (dashed line), with $\xi _{i}^{*}$ being the displacement vectors (in black) of each point from the correct region of the space. The model is the central blue line. Source: \cite  {friedman2001elements}\relax }}{8}}
+\newlabel{svm}{{4}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Experimental background - astrophysical measurements}{8}}
+\@writefile{toc}{\contentsline {paragraph}{}{8}}
+\citation{ahuja2005tracking}
+\citation{lyon2016fifty}
+\citation{morello2014spinn}
+\citation{lyon2016fifty}
+\citation{lorimer2008binary}
+\citation{hall2009weka}
+\@writefile{toc}{\contentsline {paragraph}{}{9}}
+\newlabel{dm}{{14}{9}}
+\newlabel{deltat}{{15}{9}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Data and pipelines}{9}}
+\citation{lyon2016fifty}
+\citation{lyon2016fifty}
+\citation{thornton2013high}
+\citation{van2011dspsr}
+\citation{hobbs2006tempo2}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Experimental procedure}{10}}
+\@writefile{toc}{\contentsline {paragraph}{}{10}}
+\@writefile{toc}{\contentsline {paragraph}{}{10}}
+\@writefile{toc}{\contentsline {paragraph}{}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Unrealistic simulated MSP data (green) compared to HTRU2 MSPs (blue)\relax }}{11}}
+\newlabel{DMMeanStddevBadvsMSP}{{5}{11}}
+\@writefile{toc}{\contentsline {paragraph}{}{11}}
+\citation{friedman2001elements}
+\citation{friedman2001elements}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Unrealistic simulated MSP data (green) compared to HTRU2 MSPs (blue) and non-MSPs (red)\relax }}{12}}
+\newlabel{DMMeanSkewBadvsMSPvsNon}{{6}{12}}
+\@writefile{toc}{\contentsline {paragraph}{}{12}}
+\citation{lyon2016fifty}
+\@writefile{toc}{\contentsline {paragraph}{}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Histogram of HTRU2 noise (blue) and pulsar (red) data, showing noise dominance, particularly at low periods\relax }}{13}}
+\newlabel{htru2hist}{{7}{13}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Results}{13}}
+\@writefile{toc}{\contentsline {paragraph}{}{14}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Recall on HTRU2 MSPs (class 1) using the HTRU2 noise (class 0) and non-MSPs (class 1) as training data\relax }}{14}}
+\newlabel{htru2}{{1}{14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Recall on MSPs as a function of the fraction of noise below $P_{MSP}$ which was removed from the data\relax }}{14}}
+\newlabel{allnoisecutacc}{{8}{14}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Recall on HTRU1 MSPs (class 1) using the HTRU1 noise (class 0) and non-MSPs (class 1) as training data\relax }}{14}}
+\newlabel{htru2recall}{{2}{14}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces p-values from a student's t-test of significance for adding simulated data. The threshold p-value for both is 0.05.\relax }}{15}}
+\newlabel{htru2pvalue}{{3}{15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Recall on MSPs for variation in the MSP cutoff period\relax }}{15}}
+\newlabel{allnoiseacc}{{9}{15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Ratio of MSPs to noise candidates as a function of $P_{MSP}$\relax }}{15}}
+\newlabel{noiseratiocutoff}{{10}{15}}
+\citation{pilia2016wide}
+\citation{morello2014spinn}
+\citation{thornton2013high}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Discussion}{16}}
+\@writefile{toc}{\contentsline {paragraph}{}{16}}
+\@writefile{toc}{\contentsline {paragraph}{}{16}}
+\@writefile{toc}{\contentsline {paragraph}{}{17}}
+\@writefile{toc}{\contentsline {paragraph}{}{17}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Conclusion}{17}}
+\citation{scholz2016repeating}
+\citation{petroff2015identifying}
+\bibstyle{ieeetr}
+\bibdata{mphysref1}
+\bibcite{lorimer2008binary}{1}
+\bibcite{keith2010high}{2}
+\bibcite{ng2012conducting}{3}
+\bibcite{thornton2013high}{4}
+\bibcite{morello2014spinn}{5}
+\bibcite{petroff2015identifying}{6}
+\bibcite{smits2009pulsar}{7}
+\bibcite{kohavi1995study}{8}
+\@writefile{toc}{\contentsline {section}{\numberline {9}Direction for future work}{18}}
+\bibcite{bennasar2015feature}{9}
+\bibcite{lyon2016fifty}{10}
+\bibcite{kubat1998machine}{11}
+\bibcite{scikit-learn}{12}
+\bibcite{friedman2001elements}{13}
+\bibcite{lisboa1993techniques}{14}
+\bibcite{john1995estimating}{15}
+\bibcite{pilia2016wide}{16}
+\bibcite{zhu2014searching}{17}
+\bibcite{ahuja2005tracking}{18}
+\bibcite{hall2009weka}{19}
+\bibcite{van2011dspsr}{20}
+\bibcite{hobbs2006tempo2}{21}
+\bibcite{scholz2016repeating}{22}
+\citation{lyon2016fifty}
+\citation{thornton2013high}
+\citation{lyon2016fifty}
+\citation{thornton2013high}
+\@writefile{toc}{\contentsline {section}{\numberline {10}Appendix}{20}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {10.1}Source code repository}{20}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {10.2}Risk assessment}{20}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {10.3}Additional tables and figures}{20}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Mutual information values and JMI ranks averaged over all 3 datasets. Lyon features \cite  {lyon2016fifty} are marked in bold. All others are Thornton features \cite  {thornton2013high}.\relax }}{21}}
+\newlabel{avgJMI}{{4}{21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Diagram of a decision tree for color prediction. Source: https://alliance.seas.upenn.edu/\nobreakspace  {}cis520/wiki/index.php?n=Lectures.DecisionTrees\relax }}{22}}
+\newlabel{DTdiagram}{{11}{22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Diagram of an ANN (specifically the MLP) with one hidden layer. Source: http://scikit-learn.org/stable/modules/neural$\_$networks$\_$supervised.html\relax }}{22}}
+\newlabel{MLPdiagram}{{12}{22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Raw HTRU2 data: pulsars (green), including MSPs, compared to noise (blue)\relax }}{23}}
+\newlabel{htru2noisepsr}{{13}{23}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces Final (realistic) simulated MSP data (green) compared to HTRU2 MSPs (blue) and non-MSPs (red)\relax }}{23}}
+\newlabel{htru2simr5}{{14}{23}}
